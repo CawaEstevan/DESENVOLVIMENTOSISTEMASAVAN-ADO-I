@@ -1,0 +1,36 @@
+@model SeuProjeto.ViewModels.EventoViewModel
+@{
+    ViewData["Title"] = "Resultado do Cadastro";
+}
+
+<h2>Resultado do Cadastro</h2>
+
+<div class="alert alert-success">
+    <strong>@ViewData["Mensagem"]</strong>
+</div>
+
+<div class="card">
+    <div class="card-header">
+        <h4>Dados do Evento Cadastrado</h4>
+    </div>
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Nome)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Nome)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.NumeroParticipantes)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.NumeroParticipantes)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Data)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Data)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Ativo)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Ativo)</dd>
+        </dl>
+    </div>
+</div>
+
+<div class="mt-3">
+    <a asp-action="Create" class="btn btn-primary">Cadastrar Novo Evento</a>
+    <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Voltar ao Início</a>
+</div>
