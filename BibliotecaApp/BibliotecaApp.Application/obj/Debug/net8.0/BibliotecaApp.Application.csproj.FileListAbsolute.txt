@@ -1,0 +1,16 @@
+/workspaces/DESENVOLVIMENTOSISTEMASAVAN-ADO-I/BibliotecaApp/BibliotecaApp.Application/bin/Debug/net8.0/BibliotecaApp.Application.deps.json
+/workspaces/DESENVOLVIMENTOSISTEMASAVAN-ADO-I/BibliotecaApp/BibliotecaApp.Application/bin/Debug/net8.0/BibliotecaApp.Application.dll
+/workspaces/DESENVOLVIMENTOSISTEMASAVAN-ADO-I/BibliotecaApp/BibliotecaApp.Application/bin/Debug/net8.0/BibliotecaApp.Application.pdb
+/workspaces/DESENVOLVIMENTOSISTEMASAVAN-ADO-I/BibliotecaApp/BibliotecaApp.Application/bin/Debug/net8.0/BibliotecaApp.Domain.dll
+/workspaces/DESENVOLVIMENTOSISTEMASAVAN-ADO-I/BibliotecaApp/BibliotecaApp.Application/bin/Debug/net8.0/BibliotecaApp.Domain.pdb
+/workspaces/DESENVOLVIMENTOSISTEMASAVAN-ADO-I/BibliotecaApp/BibliotecaApp.Application/obj/Debug/net8.0/BibliotecaApp.Application.csproj.AssemblyReference.cache
+/workspaces/DESENVOLVIMENTOSISTEMASAVAN-ADO-I/BibliotecaApp/BibliotecaApp.Application/obj/Debug/net8.0/BibliotecaApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DESENVOLVIMENTOSISTEMASAVAN-ADO-I/BibliotecaApp/BibliotecaApp.Application/obj/Debug/net8.0/BibliotecaApp.Application.AssemblyInfoInputs.cache
+/workspaces/DESENVOLVIMENTOSISTEMASAVAN-ADO-I/BibliotecaApp/BibliotecaApp.Application/obj/Debug/net8.0/BibliotecaApp.Application.AssemblyInfo.cs
+/workspaces/DESENVOLVIMENTOSISTEMASAVAN-ADO-I/BibliotecaApp/BibliotecaApp.Application/obj/Debug/net8.0/BibliotecaApp.Application.csproj.CoreCompileInputs.cache
+/workspaces/DESENVOLVIMENTOSISTEMASAVAN-ADO-I/BibliotecaApp/BibliotecaApp.Application/obj/Debug/net8.0/BibliotecaApp.Application.sourcelink.json
+/workspaces/DESENVOLVIMENTOSISTEMASAVAN-ADO-I/BibliotecaApp/BibliotecaApp.Application/obj/Debug/net8.0/Bibliote.B0765AEE.Up2Date
+/workspaces/DESENVOLVIMENTOSISTEMASAVAN-ADO-I/BibliotecaApp/BibliotecaApp.Application/obj/Debug/net8.0/BibliotecaApp.Application.dll
+/workspaces/DESENVOLVIMENTOSISTEMASAVAN-ADO-I/BibliotecaApp/BibliotecaApp.Application/obj/Debug/net8.0/refint/BibliotecaApp.Application.dll
+/workspaces/DESENVOLVIMENTOSISTEMASAVAN-ADO-I/BibliotecaApp/BibliotecaApp.Application/obj/Debug/net8.0/BibliotecaApp.Application.pdb
+/workspaces/DESENVOLVIMENTOSISTEMASAVAN-ADO-I/BibliotecaApp/BibliotecaApp.Application/obj/Debug/net8.0/ref/BibliotecaApp.Application.dll
