@@ -7,9 +7,9 @@ using BibliotecaApp.Application.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configurar DbContext com SQLite (funciona em Linux/Windows/Mac)
+// Configurar DbContext com SQL Server
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlite(
+    options.UseSqlServer(
         builder.Configuration.GetConnectionString("DefaultConnection"),
         b => b.MigrationsAssembly("BibliotecaApp.Infrastructure")
     ));
